@@ -1,0 +1,15 @@
+namespace java com.silent.mpu.api
+
+typedef i32 int
+typedef i64 long
+
+
+
+//Mc Functions
+service MPUService {
+	void test()
+}
+
+service MPUManager {
+	
+}
